@@ -1,0 +1,107 @@
+{
+  "customers": [],
+  "bills": [],
+  "receipts": [],
+  "emailLogs": [],
+  "loginLogs": [],
+  "adminAccounts": [
+    {
+      "id": "ADMIN-001",
+      "email": "manager@nethome.ph",
+      "password": "manager123",
+      "firstname": "Roberto",
+      "lastname": "Mendoza",
+      "dateRegistered": "2025-01-15",
+      "position": "Manager"
+    },
+    {
+      "id": "ADMIN-002",
+      "email": "cashier@nethome.ph",
+      "password": "cashier123",
+      "firstname": "Ana",
+      "lastname": "Ramirez",
+      "dateRegistered": "2025-02-01",
+      "position": "cashier"
+    },
+    {
+      "id": "ADMIN-003",
+      "email": "supervisor@nethome.ph",
+      "password": "super123",
+      "firstname": "Carlos",
+      "lastname": "Gomez",
+      "dateRegistered": "2025-02-15",
+      "position": "supervisor"
+    },
+    {
+      "id": "ADMIN-004",
+      "email": "agent@nethome.ph",
+      "password": "agent123",
+      "firstname": "Liza",
+      "lastname": "Dizon",
+      "dateRegistered": "2025-03-01",
+      "position": "agent"
+    },
+    {
+      "id": "ADMIN-005",
+      "email": "lineman@nethome.ph",
+      "password": "line123",
+      "firstname": "Mark",
+      "lastname": "Bautista",
+      "dateRegistered": "2025-03-10",
+      "position": "lineman"
+    }
+  ],
+  "netPlans": [
+    {
+      "id": "PLAN-001",
+      "name": "Fiber Starter 35 Mbps",
+      "monthlyRate": 999,
+      "speed": "35 Mbps",
+      "description": "Reliable fiber connection for basic browsing and video streaming."
+    },
+    {
+      "id": "PLAN-002",
+      "name": "Fiber Boost 50 Mbps",
+      "monthlyRate": 1299,
+      "speed": "50 Mbps",
+      "description": "Perfect for work-from-home and multiple smart devices."
+    },
+    {
+      "id": "PLAN-003",
+      "name": "Fiber Pro 100 Mbps",
+      "monthlyRate": 1500,
+      "speed": "100 Mbps",
+      "description": "Ultra-fast low-latency fiber for 4K streaming and online gaming."
+    },
+    {
+      "id": "PLAN-004",
+      "name": "Fiber Ultra 200 Mbps",
+      "monthlyRate": 2099,
+      "speed": "200 Mbps",
+      "description": "Heavy family usage with unlimited simultaneous devices."
+    },
+    {
+      "id": "PLAN-005",
+      "name": "Fiber Enterprise 400 Mbps",
+      "monthlyRate": 2899,
+      "speed": "400 Mbps",
+      "description": "High-speed business grade bandwidth with priority routing."
+    }
+  ],
+  "companyProfile": {
+    "companyName": "Net-Home Broadband Networks Corp.",
+    "tagline": "High-Speed Fiber Broadband Networks",
+    "address": "Unit 804, Cybergate Center, Pioneer St., Mandaluyong City, Metro Manila",
+    "tin": "009-482-192-000-VAT",
+    "hotline": "(02) 8888-HOME / +63 917 842 9912",
+    "email": "billing@nethome.ph"
+  },
+  "autoReminderSettings": {
+    "enabled": true,
+    "frequency": "daily",
+    "notifyOnActiveChange": true,
+    "notifyOnNewBill": true,
+    "daysBeforeDue": 5
+  },
+  "lastSyncedAt": "2026-10-30T03:49:38.876Z"
+}

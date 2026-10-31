@@ -1,0 +1,8 @@
+{
+  "name": "ApexFiber Portal - Broadband ISP Billing & Client Management System",
+  "description": "Role-based online billing portal for broadband ISP providers with client dashboards, monthly billing generation, official receipt printing, unpaid balance tracking, and automated email reminders.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
